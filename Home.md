@@ -3,16 +3,12 @@ layout: page
 title: "Home"
 ---
 
-# Home
 
 #### Zhenfeng Sun
 
 Ph.D
-
 Centre for Telecommunications Research
-
 Department of Engineering
-
 King's College London
 
 Email: goku_tech@outlook.com
