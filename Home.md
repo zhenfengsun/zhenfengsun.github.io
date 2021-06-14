@@ -6,20 +6,19 @@ title: "Home"
 
 #### Zhenfeng Sun
 
-Ph.D
-Centre for Telecommunications Research
-Department of Engineering
-King's College London
+Ph.D  
+Centre for Telecommunications Research  
+Department of Engineering  
+King's College London  
 
-Email: goku_tech@outlook.com
+Email: goku_tech@outlook.com  
 
-[Google Scholar](https://scholar.google.co.uk/citations?user=XtoBqIkAAAAJ&hl=en)
-
+[Google Scholar](https://scholar.google.co.uk/citations?user=XtoBqIkAAAAJ&hl=en)  
 [ResearchGate](https://www.researchgate.net/profile/Zhenfeng-Sun)
 
 ## About me
 
-My current research focuses on the theory and applications of Online Optimization, Machine Learning, and Reinforcement Learning.
+My current research focuses on the theory and applications of Online Optimization, Machine Learning, and Reinforcement Learning.  
 
 
 ## Education
