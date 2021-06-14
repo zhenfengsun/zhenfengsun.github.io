@@ -1,19 +1,24 @@
 ---
-layout: default
+layout: page
 title: "Home"
 ---
 
+# Home
 
 #### Zhenfeng Sun
 
 Ph.D
+
 Centre for Telecommunications Research
+
 Department of Engineering
+
 King's College London
 
 Email: goku_tech@outlook.com
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=XtoBqIkAAAAJ&hl=en)
+
 [ResearchGate](https://www.researchgate.net/profile/Zhenfeng-Sun)
 
 ## About me
