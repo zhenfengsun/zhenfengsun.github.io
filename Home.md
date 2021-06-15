@@ -8,7 +8,6 @@ title: "Home"
 
 
 #### Zhenfeng Sun
-
 Ph.D  
 Centre for Telecommunications Research  
 Department of Engineering  
@@ -22,9 +21,7 @@ Email: goku_tech@outlook.com
 
 
 ### About me
-
 ---
-
 My current research focuses on the theory and applications of Online Optimization, Machine Learning, and Reinforcement Learning.   
 
 
