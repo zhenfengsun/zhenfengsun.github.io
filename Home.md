@@ -52,5 +52,5 @@ My current research focuses on the theory and applications of Online Optimizatio
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
-  {% include archive.html title="Posts" %}
+  {% include archive.html title="Home" %}
 {% endif %}
