@@ -5,7 +5,7 @@ title: "Home"
 
 ---
 
-{% include %}
+{% include index.md%}
 
 <!-- {% if site.show_excerpts %}
   {% include home.html %}
