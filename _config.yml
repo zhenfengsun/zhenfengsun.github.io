@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 #   - {file: "README.md"}
   - {title: "Home", file: "Home.md"}
   - {title: "Research"}
-  - {title: "Publications", file:"Publications.md"}
+  - {title: "Publications", file: "Publications.md"}
   - {title: "Personal Projects"}
   - {title: "Experience"}
   - {title: "Awards"}
