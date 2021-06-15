@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "Home.md"}
   - {title: "Research", file:"Research.md"}
   - {title: "Publications", file:"Publications.md"}
-  - {title: "Personal Projects", file:"Personal Projects.md"}
+  - {title: "Personal Projects", file:"Personal-Projects.md"}
   - {title: "Experience", file:"Experience.md"}
   - {title: "Awards", file:"Awards.md"}
 
