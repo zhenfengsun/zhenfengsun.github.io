@@ -9,5 +9,5 @@ title: "Home"
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
-  {% include index.md %}
+  {% include home.html %}
 {% endif %}
