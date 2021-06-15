@@ -1,5 +1,5 @@
 title: "Zhenfeng Sun"
-author: "Zhenfeng Sun"
+# author: "Zhenfeng Sun"
 description: "Personal Website"
 permalink: /:title/
 lang: "en"
@@ -28,7 +28,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:goku_tech@outlook.com"}
-  - {title: Github, icon: github, url: "https://github.com/goku0401"}
+  - {title: Github, icon: github, url: ""} # https://github.com/goku0401
   - {title: Google Schoolar, icon: rss, url: "https://scholar.google.co.uk/citations?user=XtoBqIkAAAAJ&hl=en"}
 
 comments:
